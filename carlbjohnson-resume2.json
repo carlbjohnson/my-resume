@@ -1,0 +1,387 @@
+{
+  "basics": {
+    "name": "Carl B. Johnson",
+    "label": "Entrepreneur & Salesforce Product Owner",
+    "picture": "https://www.carlbjohnson.com/wp-content/uploads/2019/04/carlbjohnson-profile.jpg",
+    "email": "carl@carlbjohnson.com",
+    "phone": "(703)703-336-7883",
+    "website": "https://www.carlbjohnson.com",
+    "summary": "I’m a skilled business consultant, product owner and technology leader with a passion for building products and advocating for building highly productive teams through better communication, well designed systems and processes.  I leverage more than 20 years of project and product management in application, SaaS, CRM (customer/case management systems), DMS (document management systems) and cybersecurity.  This experience includes development, architecture, sales, marketing and management experience with leading organizations, such as Capgemini, Deloitte and Protiviti.",
+    "location": {
+      "address": "6908 Fairfax Drive Unit 200",
+      "postalCode": "VA 22213",
+      "city": "Arlington",
+      "countryCode": "US",
+      "region": "Virginia"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "mrcarlbjohnson",
+        "url": "https://www.linkedin.com/in/mrcarlbjohnson/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Ardent Eagle Solutions",
+      "position": "Salesforce Product Owner",
+      "startDate": "Jan 2019",
+      "endDate": "Present",
+      "highlights": [
+        "Groom\nuser stories to get them approved from the Product owners and collaborate with\ntechnical teams to finalize the design  ",
+        "Lead\nData Migration and Integration by defining the requirements and collaborating\nwith various cross functional teams to meet the business needs  ",
+        "Apply subject matter knowledge to high-level analysis, collection, assessment, design, development, modeling, simulation, integration, installation, documentation, and implementation as required",
+        "Worked closely with SME's to develop a well-defined strategic product vision and product road map, maintain a product backlog that contains at the top all highest-priority stories and they are well defined. ",
+        "Develop requirements of IT product/service (including specifications, feasibility studies, requirement analysis, etc.) from inception to conclusion on simple to complex projects"
+      ]
+    },
+    {
+      "company": "Cleared Systems",
+      "position": "Salesforce Product Owner & Agile Coach",
+      "startDate": "Jun 2017",
+      "endDate": "Present",
+      "highlights": [
+        "Managed a global team of 20+ developers and managers across a geographically dispersed area for Salesforce and Office 365 development. Directed front-end and back-end engineering, data management, architecture, CRM/ IVR development, credit processing API integration, and financial projections.  ",
+        "Lead teams in use of JIRA issue tracking tool and how to maximize use of the tool along with performing as the JIRA-certified Administrator",
+        "Apply subject matter knowledge to high-level analysis, collection, assessment, design, development, modeling, simulation, integration, installation, documentation, and implementation as required",
+        "Develop requirements of IT product/service (including specifications, feasibility studies, requirement analysis, etc.) from inception to conclusion on simple to complex projects.",
+        "Work with Product owner to ensure creation of Agile artifacts such as Product Backlog, Sprint Backlog, and Release Burndown",
+        "Create information radiators (e.g., Story Maps, Task Boards, and Product Road Maps) to illustrate team's progress.",
+        "Defined overall Business strategy and go-to market plan for internal applications. ",
+        "Support developers working offshore by assisting them with backlog grooming and communicating information to the distributed Project Team",
+        "Roadmap owner for Salesforce as a Platform implementation across the company to support the Registry, Registrar  \ncommunities ",
+        "Build key metrics reporting system and customer feedback surveys.",
+        "Build Confluence boards to manage program and project updates.",
+        " Coached/mentored and trained Scrum Masters, Product Owners, Teams and Leaders in Lean- Agile values, principles and methodologies (Lean, Scrum, Kanban, XP). Provided facilitated self-discovery for teams to increase awareness of Agile roles, rituals, values, principles, measurements, and techniques.  "
+      ]
+    },
+    {
+      "company": "Longview International",
+      "position": "Senior Office 365 Architect / Program Manager",
+      "startDate": "Nov 2015",
+      "endDate": "Jun 2017",
+      "highlights": [
+        "Provided on-site contractor technical management expertise in support of Mr. Steve Cooper, DOC Chief Information Officer",
+        "Hand-selected by Longview leadership to lead significant engagement that strengthened the infrastructure, streamlined operations, and advanced the strategic vision of the DOC. Partnered with the DOC CIO, and personally directed six to eight concurrent projects with up to 25 team members (federal and contractor) each. Provided strategic and tactical leadership for entire Software Development Life Cycle (SDLC) of Agile releases while managing Federal client’s expectations",
+        "Established a reputation as a technical and strategy expert consistently sought out to analyze and improve existing processes and systems and provide clients with original ideas and previously undiscovered opportunities to minimize risk, overcome obstacles, and seize positive change",
+        "Developed data taxonomies and used them in consolidated reporting to management in security reports",
+        "Outlined revisions required to modify development in response to changes in laws/regulations/policies",
+        "Successfully navigated DOC help desk, engineering, and information assurance team in achieving three Authority to Operate (ATO) certifications within the first year",
+        "Developed prototype solutions in Office 365 using InfoPath and Nintex Forms",
+        "Developed reports and matrices to evaluate FireEye for use at National Institute of Standards and Technology (NIST) and U.S. Census Bureau",
+        "Collected user feedback to assess the importance of new development requests against existing development priorities",
+        "Added 12 Information Assurance resources to manage and audit Tenable Nessus for four classified networks at DOC",
+        "Coached and mentored Federal and contractor team in Agile Scrum framework. Provided knowledge transfer to business teams across disciplines in Scrum development processes",
+        "Assessed current business processes and suggested modifications to improve efficiencies",
+        "Measured and evaluated progress against project plans. Conducted project status meetings and prepared and presented weekly status reports to project team and monthly progress reports to management",
+        "Monitored team backlog daily to ensure an accurate reflection of the current state, including use of Scrum Burndown Chart",
+        "Used Kanban Board to monitor critical production and federal business intelligence issues through development, Quality Assurance (QA), and deployment efforts",
+        "Managed technical teams deploying IBM BigFix, transitioning from Windows Server Update Services (WSUS) and legacy logging systems"
+      ]
+    },
+    {
+      "company": "Mind Over Machines",
+      "position": "Project Manager and Senior SharePoint Architect",
+      "startDate": "May 2015",
+      "endDate": "Oct 2015",
+      "highlights": [
+        "For an intelligence industry client provided on-site advice on implementation of an ITIL- based tool to  manage  tickets  and  work.  Implemented MS Office  SharePoint  Server  for intranet, extranet, document management, and project-portfolio purposes",
+        "Configured SharePoint 2013 and Office 355 hybrid farm with five web front end servers and nine  application  servers,  custom  branding  using  Chesapeake  Bay  Foundation  approved branding"
+      ]
+    },
+    {
+      "company": "Fujitsu Consulting",
+      "position": "Senior Agile Project Manager and SharePoint Architect",
+      "startDate": "Aug 2014",
+      "endDate": "Apr 2015",
+      "highlights": [
+        "For Mizuho Bank, New York, provided Agile Project Management and SharePoint architecting",
+        "Managed multiple, varying tasks simultaneously from planning implementation to completion",
+        "Facilitated stakeholder review sessions and management progress update sessions",
+        "Conducted project kick-offs, Sprint planning sessions, and daily stand ups; escalated any impediment and blockers",
+        "Using 3rd party tools, transitioned Lotus Notes to SharePoint 2013 and Office 365",
+        "Managed on-shore and off-shore teams in Fujitsu Project Portal",
+        "Facilitated new techniques for Agile development management in Scrum and Kanban environments resulting in improved burndown rates (user story completion) within each sprint or iteration",
+        "Coached Agile team members and Product Owner on the Agile Methodology and roles and responsibilities"
+      ]
+    },
+    {
+      "company": "Protiviti",
+      "position": "Project Manager and SharePoint Architect",
+      "startDate": "Apr 2013",
+      "endDate": "Aug 2013",
+      "highlights": [
+        "Managed multiple SharePoint and .NET migration and legacy transition projects with annual budgets from $0.5M to $2M while providing operational and technical support to widely dispersed technical staff",
+        "Directly managed technical staff of 50 personnel",
+        "Migrated sites from SharePoint 2007 to SharePoint 2010 and from SharePoint 2010 to SharePoint 2013. Configured new version of SharePoint and created web application and site collections in new SharePoint version, attaching backup of content database using PowerShell",
+        "Performed successful SharePoint 2013 visual upgrade on several site collections. Included debugging and fixing critical errors and branding differences between SharePoint 2010 and SharePoint 2013",
+        "Created SharePoint Designer workflow to send out email notification alerting end users to Secure Socket Layer (SSL) expiration, preventing logon issues for server",
+        "Migrated SQL Server Reporting Services (SSRS) 2012 to SSRS 2014. Installed Report Viewer web-part to view reports",
+        "Migrated SharePoint web applications from SharePoint 2007 to SharePoint Server 2016 to capitalize on needed SharePoint 2016 capabilities",
+        "Enhanced dashboards using excel for tracking materials and parts delivered to warehouses and customers to insure it met delivery guidelines",
+        "Directed full SDLC of SharePoint custom solutions by developing a SharePoint technical roadmap establishing guidelines and best practices aligned with Enterprise IT strategy"
+      ]
+    },
+    {
+      "company": "Capgemini",
+      "position": "Technical Program Manager and Senior Manager",
+      "startDate": "Jan 2012",
+      "endDate": "Apr 2013",
+      "highlights": [
+        "Managed multiple concurrent SharePoint and .NET migration and transition projects with annual budgets of $2M while providing operational and technical support to Capgemini teams in the U.S. and India",
+        "Managed technical staff of 30 personnel. Transfer (REST) Application Programming Interfaces (APIs) for public consumption for 3rd Party web parts. Used the REST software architectural style to define a set of constraints to create web services. The RESTful web services provided interoperability between computer systems on the Internet",
+        "As Agile coach and ScrumMaster, facilitated daily scrum, sprint planning, and sprint reviews",
+        "Effectively interacted with, advised, provided presentations to, and participated in decision-making discussions with senior management",
+        "Managed development User Acceptance Test (UAT)",
+        "Developed governance charter for National Industries for the Severely Handicapped"
+      ]
+    },
+    {
+      "company": "Fishnet Security",
+      "position": "Security Architect, Pre-Sales Engineer, and Trainer",
+      "startDate": "Feb 2008",
+      "endDate": "Feb 2009",
+      "highlights": [
+        "Provide pre- and post-sale support to multiple security vendors including but not limited to Symantec, F5, Checkpoint, FireEye, and Palo Alto Networks",
+        "Produce detailed Layer2/Layer3 documentation based on architectural standards, including physical and logical designs and configurations and implementation steps for vendor device integration and configuration"
+      ]
+    },
+    {
+      "company": "Red Software Solutions",
+      "position": "Principal, SharePoint Architect, and Project Manager",
+      "startDate": "Feb 2008",
+      "endDate": "Jan 2012",
+      "highlights": [
+        "Provided on-site contractor support to NIST, DOC; U.S. Food and Drug Administration (FDA), Department of Health and Human Services (HHS); and National Center for Research Resources (NCRR), National Institute of Health (NIH), HHS",
+        "Concurrently managed multiple large, complex role outs of SharePoint, MS Dynamics and Custom .NET applications replacing legacy Access database applications (up to $24M budgets and as many as 25 stakeholders) technical project teams of varied disciplines spanning multiple organizations. Planned, executed, tested, and delivered within scope, schedule, cost, and quality",
+        "For NIST, led a team to develop SharePoint-based portal and management systems to track hazardous waste materials and responses to Freedom of Information Act (FOIA) requests",
+        "For FDA, led a team of .NET developers and administrators to develop a clinical trials management system using SharePoint, MS Dynamics, and a custom-built .NET portal",
+        "For NCRR, led a team in providing SharePoint training and development of custom content types and web elements for a critical application used by 300 users",
+        "Facilitated SDLC processes resulting in a substantial increase in product development estimation accuracy and decreased testing cycles",
+        "Implemented ITIL-based best practices for hardware/software standards, automated software delivery, and tiered support that resulted in a 95% increase in customer satisfaction with reduced headcount"
+      ]
+    },
+    {
+      "company": "OPNET (now Riverbed)",
+      "position": "Pre-Sales Engineer and Trainer",
+      "startDate": "Jan 2007",
+      "endDate": "Feb 2008",
+      "highlights": [
+        "Led technical teams in post-sale of OPNET’s analytics and network simulation applications, IT Guru Network Planner, ACE Plus, Sentinel, Virtual Network Environment (VNE) Server, and Modeler",
+        "Developed print and web courseware. Delivered platform and on-line training courses (including customized courseware) on Transmission Control Protocol, Multi-Protocol Label Switching, Internet Protocol v6, and CiscoWorks",
+        "Taught the latest relevant industry technologies to geographically dispersed senior network engineers and operations teams"
+      ]
+    },
+    {
+      "company": "Volt",
+      "position": "Records/Documentation Consultant and Trainer",
+      "startDate": "Oct 2005",
+      "endDate": "Jan 2007",
+      "highlights": [
+        "Provided on-site support to the International Monetary Fund (IMF)",
+        "Architected Enterprise Records Management re-design and implementation for 10,000 users across four global offices",
+        "Applied subject matter knowledge to high-level analysis, collection, assessment, design, development, modeling, simulation, integration, installation, documentation, and implementation as required",
+        "Developed legal, business, and e-discovery hold architecture with transfers between document, record, and MS Exchange",
+        "Successfully completed full data migration, including all metadata mapping from OpenOpenText Content Server to SharePoint and Salesforce"
+      ]
+    },
+    {
+      "company": "Bayview/Silver Hill Financial",
+      "position": "IT  Software Implementation Project Manager",
+      "startDate": "Jan 2005",
+      "endDate": "Sep 2005",
+      "highlights": [
+        "Used Project Management Institute and waterfall development methodologies to manage the design, build, QA, and implementation of IT projects to deliver required software.",
+        "Reviewed historic data architecture on multiple business applications and revised requirements based on current business processes and needs",
+        "Led Peoplesoft and Java custom software project teams for multiple on-site client initiatives and key technical version upgrades",
+        "Led major infrastructure replacement and environmental safety and compliance initiatives, cross-functional process improvement, and IT projects for Silverhill Financial"
+      ]
+    },
+    {
+      "company": "Deloitte",
+      "position": "SharePoint Administrator",
+      "startDate": "Jan 2003",
+      "endDate": "Jan 2005",
+      "highlights": [
+        "Provided on site contractor support to the State of Florida",
+        "Assisted in SharePoint 20003 architecture planning role out",
+        "Assist in the implementation of MS Project 2003 Enterprise with 100+ locations",
+        "Developed SharePoint courseware for developers, power users, and administrators",
+        "Developed PeopleSoft Forms for executive group",
+        "Oversaw and documented implementation of SharePoint 2003 to five sites (4,000 users)",
+        "Developed encryption-based Windows Mobile applications for remote users",
+        "Prepared project estimates, budgets, schedules, and materials and contract specifications"
+      ]
+    },
+    {
+      "company": "go.com",
+      "position": "Senior Web Developer and Oracle Administrator",
+      "website": "http://go.com",
+      "startDate": "Jan 2001",
+      "endDate": "Mar 2003"
+    },
+    {
+      "company": "Compustar",
+      "position": "Owner",
+      "startDate": "Feb 1996",
+      "endDate": "Jan 2001"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "DC Central Kitchen",
+      "position": "Meal Preparer",
+      "website": "https://dccentralkitchen.org/",
+      "startDate": "Feb 2014"
+    },
+    {
+      "organization": "i9 Sports",
+      "position": "Parent Flag Football Coach",
+      "website": "https://www.i9sports.com/",
+      "startDate": "Apr 2017"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Temple University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "1999-08-01",
+      "endDate": "2003-04-01"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Implementing Compliance and Governance with SharePoint",
+      "publisher": "Self-published",
+      "releaseDate": "Mar 2013"
+    },
+    {
+      "name": "What Is Salesforce and What Does It Do?",
+      "publisher": "Self-published (carlbjohnson.com)",
+      "releaseDate": "March 2019"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Program Management",
+      "level": "Master"
+    },
+    {
+      "name": "Project Management",
+      "level": "Master"
+    },
+    {
+      "name": "Product Owner/Management",
+      "level": "Master"
+    },
+    {
+      "name": "Agile Team Management",
+      "level": "Master"
+    },
+    {
+      "name": "Scrum Management",
+      "level": "Master"
+    },
+    {
+      "name": "Kanban Framework",
+      "level": "Master"
+    },
+    {
+      "name": "Salesforce Deployment",
+      "level": "Master"
+    },
+    {
+      "name": "Salesforce Business Analysis",
+      "level": "Master"
+    },
+    {
+      "name": "Office 365 & SharePoint Architecture",
+      "level": "Master"
+    },
+    {
+      "name": "Amazon EC2 Deployment",
+      "level": "Master"
+    },
+    {
+      "name": "Amazon EC2 Architecture",
+      "level": "Master"
+    },
+    {
+      "name": "Cybersecurity Engagement & Investigations",
+      "level": "Master"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Long Distance Running"
+    },
+    {
+      "name": "Baking"
+    },
+    {
+      "name": "Wine Making"
+    },
+    {
+      "name": "Startups"
+    }
+  ],
+  "speeches": [
+    {
+      "name": "Robotic Process Automation (RPA) Is Here to Stay – How t  Use It",
+      "institution": "Financial Banking Association",
+      "year": 2014
+    },
+    {
+      "name": "Client/Server Network Analysis",
+      "institution": "Ronald Regan Center",
+      "year": 2007
+    },
+    {
+      "name": "Ethereal for System Administrators",
+      "institution": "Ronald Regan Center",
+      "year": 2007
+    },
+    {
+      "name": "Understanding Project Management",
+      "institution": "Baltimore Business Journal",
+      "year": 2006
+    },
+    {
+      "name": "Developing Computer Based Training for Management",
+      "institution": "American Society for Training and Development (ASTD)",
+      "year": 2016
+    }
+  ],
+  "affiliations": [
+    {
+      "name": "Salesforce Group of Washington, DC"
+    },
+    {
+      "name": "Scrum Master Meetup Group, Washington, DC"
+    },
+    {
+      "name": "Project Management Institute, Washington, DC chapter"
+    },
+    {
+      "name": "Toast Masters of Washington, DC"
+    }
+  ],
+  "personal_projects": [
+    {
+      "name": "MyStatusReports.com",
+      "description": "A lean principal status report tracking tool used to provide monthly updates to clients"
+    },
+    {
+      "name": "Another Kankan",
+      "description": "A small Kanban board I use to manage business and personal projects"
+    }
+  ]
+}
