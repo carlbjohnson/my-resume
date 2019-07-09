@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Carl B. Johnson",
-    "label": "Entrepreneur & Salesforce Product Owner",
+    "label": "Business Consultant & Salesforce Product Owner",
     "picture": "https://www.carlbjohnson.com/wp-content/uploads/2019/04/carlbjohnson-profile.jpg",
     "email": "carl@carlbjohnson.com",
-    "phone": "(703)703-336-7883",
+    "phone": "(703) 336-7883",
     "website": "https://www.carlbjohnson.com",
     "summary": "I’m a skilled business consultant, Salesforce product owner and technology leader with a passion for building products and advocating for building highly productive teams through better communication, well designed systems and processes.  I leverage more than 20 years of project and product management in application, SaaS, CRM (customer/case management systems), DMS (document management systems) and cybersecurity.  This experience includes development, architecture, sales, marketing and management experience with leading organizations, such as Capgemini, Deloitte and Protiviti.",
     "location": {
@@ -149,7 +149,7 @@
     },
     {
       "company": "Red Software Solutions",
-      "position": "Principal, SharePoint & Dynamics Product Owner",
+      "position": "Principal, SharePoint & MS Dynamics Project Manager",
       "startDate": "Feb 2008",
       "endDate": "Jan 2012",
       "highlights": [
