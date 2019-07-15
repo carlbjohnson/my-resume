@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Carl B. Johnson",
-    "label": "Business Consultant & Salesforce Product Owner",
+    "label": "Microsoft Strategic Consutant",
     "picture": "https://www.carlbjohnson.com/wp-content/uploads/2019/04/carlbjohnson-profile.jpg",
     "email": "carl@carlbjohnson.com",
     "phone": "(703) 336-7883",
     "website": "https://www.carlbjohnson.com",
-    "summary": "I’m a skilled business consultant, Salesforce product owner and technology leader with a passion for building products and advocating for building highly productive teams through better communication, well designed systems and processes.  I leverage more than 20 years of project and product management in application, SaaS, CRM (customer/case management systems), DMS (document management systems) and cybersecurity.  This experience includes development, architecture, sales, marketing and management experience with leading organizations, such as Capgemini, Deloitte and Protiviti.",
+    "summary": "I’m a skilled business consultant, Microsoft and Salesforce product owner and technology leader with a passion for building products and advocating for building highly productive teams through better communication, well designed systems and processes.  I leverage more than 20 years of project and product management in application, SaaS, CRM (customer/case management systems), DMS (document management systems) and cybersecurity.  This experience includes development, architecture, sales, marketing and management experience with leading organizations, such as Capgemini, Deloitte and Protiviti.",
     "location": {
       "address": "6908 Fairfax Drive Unit 200",
       "postalCode": "VA 22213",
@@ -38,7 +38,7 @@
     },
     {
       "company": "Cleared Systems",
-      "position": "Salesforce Product Owner & Agile Coach",
+      "position": "Microsoft & Salesforce Product Owner",
       "startDate": "Jun 2017",
       "endDate": "Present",
       "highlights": [
